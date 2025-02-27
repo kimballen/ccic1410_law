@@ -1,4 +1,4 @@
-# CCIC1410-LAW Camera IO Integration for Home Assistant
+# Siemens CCIC1410-LAW Camera IO Integration for Home Assistant
 
 A custom Home Assistant integration for CCIC1410-LAW IP cameras that enables control and monitoring of digital I/O ports. This integration provides real-time status updates and control capabilities for the camera's digital input and output ports.
 
