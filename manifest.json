@@ -1,0 +1,11 @@
+{
+  "domain": "ccic1410_law",
+  "name": "CCIC1410-LAW Camera IO",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["requests", "beautifulsoup4"],
+  "config_flow": true,
+  "version": "1.0.0",
+  "iot_class": "local_polling"
+}
